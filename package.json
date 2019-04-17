@@ -1,5 +1,5 @@
 {
-  "name": "sails",
+  "name": "@mobileit/sails",
   "author": "Mike McNeil <@mikermcneil>",
   "version": "0.12.14",
   "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
